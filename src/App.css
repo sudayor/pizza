@@ -1,0 +1,14 @@
+body{
+    background: url(https://thumbs.dreamstime.com/b/colourful-various-herbs-spices-cooking-dark-background-herbs-spices-cooking-dark-background-113655482.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    object-fit: cover;
+}
+.find{
+    background-color: darkmagenta;
+}
+.carta{
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Xorazm_Viloyati_in_Uzbekistan.svg/640px-Xorazm_Viloyati_in_Uzbekistan.svg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
